@@ -3,8 +3,11 @@ Analysis of drinking water access in Sub-Saharan Africa using JMP data
 
 ##Project Goals
 -Compare drinking water access across selected Sub-Saharan African countries
+
 -Analyze changes in access over time
+
 -Compare rural and urban access differences
+
 -Create a regional GeoPandas map of drinking water access of both the select countries & all Sub-Saharan countries
 
 ## Tools Used
