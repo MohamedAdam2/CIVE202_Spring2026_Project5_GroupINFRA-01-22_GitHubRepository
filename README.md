@@ -9,9 +9,13 @@ Analysis of drinking water access in Sub-Saharan Africa using JMP data
 
 ## Tools Used
 -Pyton
+
 -Pandas
+
 -NumPy
+
 -Matplotlib
+
 -Geopandas
 
 ##Data Source
