@@ -8,7 +8,7 @@ Analysis of drinking water access in Sub-Saharan Africa using JMP data
 -Create a regional GeoPandas map of drinking water access of both the select countries & all Sub-Saharan countries
 
 ## Tools Used
--Pyton
+-Python
 
 -Pandas
 
